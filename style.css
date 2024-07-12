@@ -1,0 +1,197 @@
+header {
+    background-color: #264653;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body h2 {
+    font-size: 48px;
+}
+
+#login {
+    background-color: #E76F51;
+}
+
+#login:hover {
+    background-color: #4c75b3;
+}
+
+.btn-purple {
+
+    background-color: #E76F51;
+
+}
+
+.nav-link {
+    font-size: 16px;
+}
+
+/* .nav-link:hover {
+    background-color: #E76F51;
+    border-radius: 5px;
+} */
+.nav-item a:hover {
+    background-color: #E76F51;
+    border-radius: 5px;
+}
+
+.nav-item a {
+    font-size: 16px;
+}
+
+.btn:hover {
+    background-color: #4c75b3;
+}
+
+#honda .honda-text {
+    font-size: 16px;
+    color: #E0E0E0;
+}
+
+.headar-image img {
+    width: 552px;
+    height: 447px;
+    padding-bottom: 50px;
+    background-color: inherit;
+    border: none;
+}
+
+#bikes-2024 h1 {
+    color: #000000;
+    text-align: center;
+}
+
+#bikes-2024 p {
+    color: #E76F51;
+    text-align: center;
+}
+
+#bikes-2024 img {
+    width: 288px;
+    height: 243px;
+}
+
+#bikes-2024 .black img {
+    filter: grayscale(100%);
+}
+
+#latest-news h1 {
+    font-size: 48px;
+    color: #0A0826;
+    text-align: center;
+}
+
+.btn-news {
+    color: #E76F51;
+    font-size: 18px;
+    border: 2px solid #E76F51;
+}
+
+.btn-news:hover {
+    color: white;
+    background-color: #E76F51;
+}
+
+#happy-section span {
+    color: #E76F51;
+}
+
+#happy-section h1 {
+    font-weight: bold;
+}
+
+#happy-section img {
+    width: 149px;
+    height: 149px;
+    margin: 0 auto;
+}
+
+#happy-clients p {
+    text-align: center;
+}
+
+
+#faq-section span {
+    color: #E76F51;
+}
+
+#faq-image img {
+    width: 431px;
+    height: 442px;
+}
+
+.mb-100 {
+    margin-bottom: 100px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+#faq-section {
+    padding-bottom: 100px;
+}
+
+#faq-section .accordion-item {
+    border: 1px solid #D5E5FB;
+    margin-bottom: 10px;
+}
+
+#faq-section .accordion-button {
+    font-size: 20px;
+    color: #383838;
+    font-weight: bold;
+}
+
+#faq-section .accordion-body {
+    font-size: 16px;
+    color: #7E848C;
+}
+
+footer {
+    background-color: #0B0D17;
+    
+}
+
+#footer-section {
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: manrope;
+}
+
+#footer-section a {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    align-items: center;
+    margin: 0 10px;
+    color: white;  
+}
+#footer-section .about-a {
+    padding-top: 30px; 
+}
+
+#footer-section p {
+    color: white;
+    font-size: 16px;
+    padding-top: 15px;
+    margin-left: 5px;
+  
+}
+
+#footer-section h4 {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 10px;
+    
+}
+
+#footer-section img {
+    width: 150px;
+    height: 100px;
+}
